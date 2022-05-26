@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "mytube": "apps/mytube",
+    "mytube-e2e": "apps/mytube-e2e"
+  }
+}
